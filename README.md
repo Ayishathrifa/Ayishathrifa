@@ -15,7 +15,7 @@ I’m interested in the intersection of **Artificial Intelligence, Data Analytic
 
 I love working on open-source projects, automation workflows, and data-driven solutions.
 
-- 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/...)
+- 🔗 Connect with me on [Ayishathrifa/linkedin](https://www.linkedin.com/in/ayishath-rifa-7575b5200/)
 
 ---
 
