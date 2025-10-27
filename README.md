@@ -33,6 +33,15 @@ I have completed certifications in:
 These certifications reflect not only subject mastery, but also my perseverance and never-give-up mindset. I am proud of this journey and grateful for the unwavering support of my mentors and above all, the grace of God that carried me through challenging times.
 
 ---
+
+ 
+## 📊 GitHub Stats (Optional)
+ 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AyishathRifa&show_icons=true&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AyishathRifa&layout=compact)
+ 
+---
+ 
 ## 🛠️ Skills
 
 **Programming & Tools**  
